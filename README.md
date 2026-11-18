@@ -63,3 +63,15 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door interactieve 
 
 VISUAL RESEARCH
 sfeerwoorden: chaotisch, funky, grappig, unhinged, messy, crazy, nostalgisch ​
+
+crazy 8:
+Wat zijn de beste ideeën en waarom? ... en waarom de andere minder?
+iets met die 37, van nu en verleden en dat je die moet zoeken. Al die funky dingen die je wilt vertellen. Als je iets wegdrukt dat weer iets anders opent, georganiseerde terror. 8
+Zijn uitgangspunten terug te zien in de schetsen? Hoe is dat zichtbaar?
+Ja de chaos is terug te zien, door de vele vakjes en de chaos over de pagina;s, geen duidelijke patronen. De kleur en craziness is nog niet echt terug te zien
+Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
+ja! de vele kleuren kunnen sws toegepast worden, de oude windows of bestandsschermen zijn ook na te maken denk ik. De vele tabbladen die openen tgelijk of open blijven staan ook wel gewoon te doen, als het ware door laagjes te creeren.
+Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
+Ja hoe dan ook! ik heb niet heel veel ervaring met coderen dus bijna alles is wel nieuw voor mij eigenlijk. De css gaat echt wel terug komen, want het moet heel kunstelijk en kleurrijk worden, de content word relatief vanzelfsprekend. Ik zie wel veel animaties, gekke hovers, gifs, of feedback op knoppen of verassende effecten waarmee ik moet gaan experimenteren.
+Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+Jaa ik heb er helemaal zin in, ik heb mu een hele visuele visie voor me, en allemaal ideeen die zich opstapelen etc. Dus ik ben wel excited om dit stap voor stap in elkaar te zetten en om steeds het uit te breiden, en om echt uets uit te gaan werken.
